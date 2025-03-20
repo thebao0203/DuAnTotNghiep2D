@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Statue3_grass_shadow_0: 6693805987321484605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

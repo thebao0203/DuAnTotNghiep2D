@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      House_stump_sand_shadow_0: 3640312853252144791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

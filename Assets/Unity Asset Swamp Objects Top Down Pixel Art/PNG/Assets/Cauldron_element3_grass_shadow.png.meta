@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cauldron_element3_grass_shadow_0: -8132474183583535713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

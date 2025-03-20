@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      trilobite_house_sand_shadow_0: 1906468117615865113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Arthropods_sand_shadow1_0: 3335174371242313599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

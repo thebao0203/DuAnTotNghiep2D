@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flower_grass_shadow2_0: -103428068429318688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      The_beast_grass_shadow5_0: 725348946973235485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

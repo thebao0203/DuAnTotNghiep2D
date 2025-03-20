@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      House_teepee_grass_shadow_0: -1418493567618291919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

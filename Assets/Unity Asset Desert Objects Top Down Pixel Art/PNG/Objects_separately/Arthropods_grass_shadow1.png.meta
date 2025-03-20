@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Arthropods_grass_shadow1_0: 8577859329054978209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

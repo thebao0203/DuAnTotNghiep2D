@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sculls_tree3_0: -3651371175379777003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

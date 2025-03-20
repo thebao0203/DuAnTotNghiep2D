@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bones3_grass_shadow_0: -6810385324490057957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

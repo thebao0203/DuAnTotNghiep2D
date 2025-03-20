@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      The_beast_grass_shadow1_0: 2748561198094717321
+      The_beast_grass_shadow1_1: -8190574882425426999
+      The_beast_grass_shadow1_2: 2732722063081558406
+      The_beast_grass_shadow1_3: 542815925880543739
+      The_beast_grass_shadow1_4: 683143610446486011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cactus1_sand_shadow1_0: 5764150201718978758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

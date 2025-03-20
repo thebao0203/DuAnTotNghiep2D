@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      House_stump_grass_shadow_0: 7881240952254272985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

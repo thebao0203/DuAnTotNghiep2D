@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Big_idols_ground_shadow1_0: 3178152611275935778
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

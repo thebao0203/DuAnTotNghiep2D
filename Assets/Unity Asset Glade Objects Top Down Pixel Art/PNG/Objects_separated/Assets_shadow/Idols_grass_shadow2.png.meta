@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Idols_grass_shadow2_0: -6051490662031867032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

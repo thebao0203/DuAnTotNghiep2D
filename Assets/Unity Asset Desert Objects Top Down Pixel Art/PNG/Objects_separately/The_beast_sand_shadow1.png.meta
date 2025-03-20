@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      The_beast_sand_shadow1_0: -8212701593986532453
+      The_beast_sand_shadow1_1: -1497049373258605417
+      The_beast_sand_shadow1_2: 8328012974515330698
+      The_beast_sand_shadow1_3: -2492088565309413685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

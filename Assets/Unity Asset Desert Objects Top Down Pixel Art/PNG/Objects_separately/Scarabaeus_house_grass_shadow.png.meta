@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Scarabaeus_house_grass_shadow_0: 1150939673971867166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

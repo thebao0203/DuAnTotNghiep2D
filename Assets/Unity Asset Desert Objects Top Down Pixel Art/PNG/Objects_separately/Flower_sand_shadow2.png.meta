@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flower_sand_shadow2_0: -5536615488467024688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Statues_sand_shadow4_0: -3672890414684975591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

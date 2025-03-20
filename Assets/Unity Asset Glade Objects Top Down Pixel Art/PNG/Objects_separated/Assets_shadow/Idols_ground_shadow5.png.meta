@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Idols_ground_shadow5_0: -2453985486139394756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

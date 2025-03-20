@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pagan temple_0: -6548190316563928251
+      Pagan temple_1: -4702570347622709062
+      Pagan temple_2: -2738552447296559924
+      Pagan temple_3: 2416455660712921674
+      Pagan temple_4: -8579069715061009156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

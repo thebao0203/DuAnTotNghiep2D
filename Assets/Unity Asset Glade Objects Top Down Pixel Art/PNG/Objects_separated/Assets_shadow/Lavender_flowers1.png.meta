@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lavender_flowers1_0: -400042530049083739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

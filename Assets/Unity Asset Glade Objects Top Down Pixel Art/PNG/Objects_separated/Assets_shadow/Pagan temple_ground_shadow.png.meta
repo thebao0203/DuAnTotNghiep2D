@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pagan temple_ground_shadow_0: 625204167600072618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

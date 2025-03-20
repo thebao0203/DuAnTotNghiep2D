@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Witch_totem3_ground_shadow_0: -3157940273687401075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

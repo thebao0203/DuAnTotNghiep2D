@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Witch_totem1_grass_shadow_0: -6879810291737678394
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
